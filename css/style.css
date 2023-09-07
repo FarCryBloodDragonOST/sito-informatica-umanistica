@@ -33,8 +33,8 @@ h1 {
     }
   }
   @media only screen and (max-width: 480px) {
-  p {
-    font-size: 26px !important;
+  .sottotitolo {
+    font-size: 24px !important;
     text-align: center !important;
     }   
 }
@@ -108,7 +108,19 @@ nav ul li a:hover {
     margin-top: 7%;
     margin-bottom: 11%; 
     padding: 0%;
-    text-decoration: none !important;    
+    text-decoration: none !important;   
+    }
+  }
+
+  @media only screen and (max-width: 480px) {
+    .card-text {
+    background-color: #0B0B0B;
+    margin-top: 7%;
+    margin-bottom: 11%; 
+    padding: 0%;
+    margin-left: 3%;
+    margin-right: 3%;
+    text-decoration: none !important;   
     }
   }
 
