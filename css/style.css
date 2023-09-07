@@ -28,13 +28,13 @@ h1 {
 
   @media only screen and (max-width: 480px) {
     h2 {
-        font-size: 30px !important;
+        font-size: 38px !important;
         text-align: center !important;
     }
   }
   @media only screen and (max-width: 480px) {
   p {
-    font-size: 23px !important;
+    font-size: 26px !important;
     text-align: center !important;
     }   
 }
@@ -99,9 +99,20 @@ nav ul li a:hover {
     margin-bottom: 11%; 
     padding: 0%;
     text-decoration: none !important;
-    position: static;
+
 }
 
+@media only screen and (max-width: 480px) {
+    .card {
+    background-color: #0B0B0B;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 7%;
+    margin-bottom: 11%; 
+    padding: 0%;
+    text-decoration: none !important;    
+    }
+  }
 
 .card-text:hover {
     color: #54F8AE !important;
