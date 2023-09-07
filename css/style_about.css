@@ -11,6 +11,14 @@ header {
     background-color:#0B0B0B;
 }
 
+@media only screen and (max-width: 480px) {
+    body {
+    background-image: url(img/background_.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    }
+}
+
 /*menu di navigazione per tutte le pagine*/
 #nav {
     background-color: #0B0B0B !important;
@@ -44,6 +52,7 @@ nav ul li a:hover {
 /*fine menu di navigazione*/
 
 /*BOX TESTO */
+
 
 /*section*/#gioco {
     background-color: black;
