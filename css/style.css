@@ -117,11 +117,10 @@ nav ul li a:hover {
     background-color: #0B0B0B;
     margin-top: 7%;
     margin-bottom: 11%; 
-    padding: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
     text-decoration: none !important;   
     font-size: 15px;
-    margin-left: 5%;
-    margin-right: 5%;
     }
   }
 
