@@ -109,6 +109,7 @@ nav ul li a:hover {
     margin-bottom: 11%; 
     padding: 0%;
     text-decoration: none !important;   
+    width: 20%;
     }
   }
 
@@ -117,8 +118,6 @@ nav ul li a:hover {
     background-color: #0B0B0B;
     margin-top: 7%;
     margin-bottom: 11%; 
-    padding-left: 9%;
-    padding-right: 9%;
     text-decoration: none !important;   
     font-size: 15px;
     }
