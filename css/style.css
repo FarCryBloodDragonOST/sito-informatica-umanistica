@@ -1,0 +1,159 @@
+body {
+    font-family: 'Barlow Condensed', sans-serif;
+    background-color: #0B0B0B;
+    text-decoration: none !important;
+}
+
+header {
+    padding: 2.5% 2% 0% 2%;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Audiowide', sans-serif;
+    text-align: center;
+    font-size: 5em;
+    color: #e9ebea;
+    text-shadow: 1px 1px 2px black, 0 0 25px #AD00FF, 0 0 5px #e9ebea;
+    margin-top: 6%;
+    margin-bottom: 1%;
+}
+
+@media only screen and (max-width: 480px) {
+    h1 {
+        font-size: 60px;
+        text-align: center !important;
+    }
+  }
+
+  @media only screen and (max-width: 480px) {
+    h2 {
+        font-size: 45px !important;
+        text-align: center !important;
+    }
+  }
+
+  p {
+    font-size: 30px !important;
+    text-align: center !important;
+}
+
+
+h2 {font-family: 'Audiowide', sans-serif;
+    text-align: center;
+    font-size: 4em;
+    color: #e9ebea;
+    text-shadow: 1px 1px 2px black, 0 0 25px #AD00FF, 0 0 5px #e9ebea;
+    margin-top: 0%;
+    margin-bottom: 2%;
+}
+
+.sottotitolo {
+    text-align: center;
+    color: #e9ebea;
+    margin-top: 4%;
+}
+
+p {
+    text-align: center;
+    font-size: 2em !important;
+}
+
+/*menu di navigazione per tutte le pagine*/
+#nav {
+    background-color: #0B0B0B !important;
+}  
+
+nav ul li { 
+    display: inline-block;
+    margin: 0% 26% 0% 26%;
+    font-size: 1.5em;
+} 
+
+nav ul li a { 
+    display: inline-block;
+    color:#e9ebea !important;
+    text-decoration: none !important; 
+} 
+
+nav ul li a:hover {
+    color: #0B0B0B !important;
+    text-decoration: none;
+    background-color: #54F8AE;
+    border-style: solid;
+    border-color: #54F8AE !important; 
+}
+
+#attivo {
+    border-style: solid;
+    border-color: #54F8AE; 
+}
+
+/*fine menu di navigazione*/
+
+.card {
+    background-color: #0B0B0B;
+    width: 18rem;
+    margin-left: 27%;
+    margin-right: 25%;
+    margin-top: 7%;
+    margin-bottom: 11%; 
+    text-decoration: none !important;
+}
+
+.card-text:hover {
+    color: #54F8AE !important;
+}
+
+.card-text {
+    color: #e9ebea;
+}
+
+a {
+    text-decoration: none;
+}
+
+/*footer*/
+footer {
+    background-color: black;
+    text-align: center;
+    color:#e9ebea;
+    padding-bottom: 2px;
+    padding-top: 0.5%;
+    width: 100%;
+}
+
+footer a {
+    text-align: center;
+    color:#e9ebea;
+}
+
+#dirittifooter {
+    font-size: 1.3em !important;
+    text-align: center;
+    color:#e9ebea;
+}
+
+footer a:hover {
+    color: #54F8AE;
+    text-decoration: none;
+}
+
+#misuradocumentazione {
+    font-size: 2em;
+    padding: 0.5%;
+    color: white;
+    text-decoration: none;
+}
+
+#iconafoglio {
+    font-size: 1.7em;
+}
+
+.cliccabile:hover {
+    color: #54F8AE !important;
+    text-decoration: none;
+}
+
+/*fine footer*/
+
