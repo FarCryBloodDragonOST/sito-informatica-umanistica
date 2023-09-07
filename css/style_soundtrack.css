@@ -44,7 +44,7 @@ nav ul li a:hover {
 
 @media only screen and (max-width: 480px) {
     body {
-    background-image: url(img/background_soundtrack.jpg);
+    background-image: url(img/soundtrack_ritagliata.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     }
