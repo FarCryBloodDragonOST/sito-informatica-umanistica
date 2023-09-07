@@ -21,23 +21,23 @@ h1 {
 
 @media only screen and (max-width: 480px) {
     h1 {
-        font-size: 60px;
+        font-size: 45px;
         text-align: center !important;
     }
   }
 
   @media only screen and (max-width: 480px) {
     h2 {
-        font-size: 45px !important;
+        font-size: 30px !important;
         text-align: center !important;
     }
   }
-
+  @media only screen and (max-width: 480px) {
   p {
-    font-size: 30px !important;
+    font-size: 23px !important;
     text-align: center !important;
+    }   
 }
-
 
 h2 {font-family: 'Audiowide', sans-serif;
     text-align: center;
