@@ -120,6 +120,8 @@ nav ul li a:hover {
     padding: 0%;
     text-decoration: none !important;   
     font-size: 15px;
+    margin-left: 3%;
+    margin-right: 3%;
     }
   }
 
