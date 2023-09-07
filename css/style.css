@@ -94,11 +94,12 @@ nav ul li a:hover {
 .card {
     background-color: #0B0B0B;
     width: 18rem;
-    margin-left: 27%;
+    margin-left: 25%;
     margin-right: 25%;
     margin-top: 7%;
     margin-bottom: 11%; 
     text-decoration: none !important;
+    float: center;
 }
 
 .card-text:hover {
