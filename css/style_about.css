@@ -79,6 +79,18 @@ h2 {
     margin-bottom: 3%;
 }
 
+@media only screen and (max-width: 480px) {
+    p {
+      font-size: 1.3em !important;
+      }   
+  }
+
+  @media only screen and (max-width: 480px) {
+    h2 {
+      font-size: 1.6em !important;
+      }   
+  }
+
 /*section*/#steam {
     background-color: black;
     opacity: 0.8;
