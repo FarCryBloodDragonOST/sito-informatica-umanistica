@@ -183,5 +183,17 @@ footer a:hover {
     text-decoration: none;
 }
 
+@media only screen and (max-width: 480px) {
+    a {
+    font-size: 1.3em !
+    }
+  }
+
+  @media only screen and (max-width: 480px) {
+    p {
+    font-size: 1.3em !
+    }
+  }
+
 /*fine footer*/
 
