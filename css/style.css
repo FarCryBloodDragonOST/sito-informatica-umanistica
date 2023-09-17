@@ -28,13 +28,13 @@ h2 {font-family: 'Audiowide', sans-serif;
     margin-bottom: 2%;
 }
 
-.sottotitolo {
+#sottotitolo {
     text-align: center;
     color: #e9ebea;
     margin-top: 4%;
     margin-left: 12%;
     margin-right: 12%;
-    font-size: 1.9em !important;
+    font-size: 1.9em;
 }
 
 @media only screen and (max-width: 480px) {
