@@ -195,5 +195,11 @@ footer a:hover {
     }
   }
 
+  @media only screen and (max-width: 480px) {
+    #iconafoglio {
+    font-size: 0.8em !important;
+    }
+  }
+
 /*fine footer*/
 
