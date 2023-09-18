@@ -155,4 +155,10 @@ footer {
   #senzahover {     /*per icona copyright*/   
     color: white;
 }
+
+@media only screen and (max-width: 480px) {
+    #dirittifooter {
+    font-size: 1.1em !important;
+    }
+  }
 /*fine footer*/
